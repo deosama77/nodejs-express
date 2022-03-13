@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deosama77/nodejs-express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deosama77/nodejs-express/issues"
+  },
+  "homepage": "https://github.com/deosama77/nodejs-express#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
